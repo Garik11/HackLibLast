@@ -6,25 +6,25 @@
 #define W_HEIGHT 480
 LPCWSTR windowTitle = L"MSPaint brush customizer";
 
-//Для Кисти
+//Р”Р»СЏ РљРёСЃС‚Рё
 LPCWSTR option1Nop_1 = L"xx 47 xx xx xx xx xx xx xx xx xx xx xx xx xx xx xx xx xx xx xx xx 64 xx xx xx xx xx xx xx xx xx xx xx xx xx xx xx xx xx xx xx xx 3C xx";
-//Для Каллиграфической кисти
+//Р”Р»СЏ РљР°Р»Р»РёРіСЂР°С„РёС‡РµСЃРєРѕР№ РєРёСЃС‚Рё
 LPCWSTR option1Nop_2 = L"xx 47 xx xx xx xx xx xx xx xx xx xx xx xx xx xx xx xx xx xx xx xx 63 xx xx xx xx xx xx xx xx xx xx xx xx xx xx xx xx xx xx xx xx xx B7";
-//Для геометрических фигур
+//Р”Р»СЏ РіРµРѕРјРµС‚СЂРёС‡РµСЃРєРёС… С„РёРіСѓСЂ
 LPCWSTR option1Nop_3 = L"xx 47 xx xx xx xx xx xx xx xx xx xx xx xx xx xx xx xx xx xx xx xx 65 xx xx xx xx xx xx xx xx xx xx xx xx xx xx xx xx xx xx xx xx xx B8";
-//Для кисти для масла
+//Р”Р»СЏ РєРёСЃС‚Рё РґР»СЏ РјР°СЃР»Р°
 LPCWSTR option1Nop_4 = L"xx 47 xx xx xx xx xx xx xx xx xx xx xx xx xx xx xx xx xx xx xx xx 63 xx xx xx xx xx xx xx xx xx xx xx xx xx xx xx xx xx xx xx xx xx B6";
-//Для пастели
+//Р”Р»СЏ РїР°СЃС‚РµР»Рё
 LPCWSTR option1Nop_5 = L"xx 47 xx xx xx xx xx xx xx xx xx xx xx xx xx xx xx xx xx xx xx xx 62 xx xx xx xx xx xx xx xx xx xx xx xx xx xx xx xx xx xx xx xx xx B6";
-//Для текстурного карандаша
+//Р”Р»СЏ С‚РµРєСЃС‚СѓСЂРЅРѕРіРѕ РєР°СЂР°РЅРґР°С€Р°
 LPCWSTR option1Nop_6 = L"xx 47 xx xx xx xx xx xx xx xx xx xx xx xx xx xx xx xx xx xx xx xx 61 xx xx xx xx xx xx xx xx xx xx xx xx xx xx xx xx xx xx xx xx xx B5";
-//Для кисти для акварели
+//Р”Р»СЏ РєРёСЃС‚Рё РґР»СЏ Р°РєРІР°СЂРµР»Рё
 LPCWSTR option1Nop_7 = L"xx 47 xx xx xx xx xx xx xx xx xx xx xx xx xx xx xx xx xx xx xx xx 61 xx xx xx xx xx xx xx xx xx xx xx xx xx xx xx xx xx xx xx xx xx B4";
-//Для маркера
+//Р”Р»СЏ РјР°СЂРєРµСЂР°
 LPCWSTR option1Nop_8 = L"xx 47 xx xx xx xx xx xx xx xx xx xx xx xx xx xx xx xx xx xx xx xx 60 xx xx xx xx xx xx xx xx xx xx xx xx xx xx xx xx xx xx xx xx xx B4";
-// Для карандаша
+// Р”Р»СЏ РєР°СЂР°РЅРґР°С€Р°
 LPCWSTR option1Nop_9 = L"0F 47 D8 xx xx xx xx xx xx xx 89";
-//Для баллончика и ластика
+//Р”Р»СЏ Р±Р°Р»Р»РѕРЅС‡РёРєР° Рё Р»Р°СЃС‚РёРєР°
 LPCWSTR option1Nop_10 = L"83 FA 32";
 
 LPCWSTR option2Cave_1 = L"48 xx xx xx xx xx xx xx xx xx xx xx xx xx xx xx xx xx xx xx 0D A7";
