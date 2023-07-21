@@ -9,7 +9,7 @@ int main() {
 
 	vector <int> option1Keys = { VK_NUMPAD1 };
 	CheatOption* option1 = new CheatOption(NULL, 
-		L"[NUM1] ŒÚÍÎ˛˜ÂÌËÂ ÔÓÓ„‡ ‡ÁÏÂ‡ ‚ÒÂı Ó·˙ÂÍÚÓ‚", 
+		L"[NUM1] –û—Ç–∫–ª—é—á–µ–Ω–∏–µ –ø–æ—Ä–æ–≥–∞ —Ä–∞–∑–º–µ—Ä–∞ –≤—Å–µ—Ö –æ–±—ä–µ–∫—Ç–æ–≤", 
 		option1Keys);
 	option1->AddNopPatch(option1Nop_1, 3);
 	option1->AddNopPatch(option1Nop_2, 3);
@@ -24,16 +24,16 @@ int main() {
 
 	vector <int> option2Keys = { VK_NUMPAD2 };
 	CheatOption* option2 = new CheatOption(NULL, 
-		L"[NUM2] »ÁÏÂÌÂÌËÂ ÍÓÌÒÚ‡ÌÚÌ˚ı ‡ÁÏÂÓ‚  ‚ÒÂı Ó·˙ÂÍÚÓ‚",
+		L"[NUM2] –ò–∑–º–µ–Ω–µ–Ω–∏–µ –∫–æ–Ω—Å—Ç–∞–Ω—Ç–Ω—ã—Ö —Ä–∞–∑–º–µ—Ä–æ–≤  –≤—Å–µ—Ö –æ–±—ä–µ–∫—Ç–æ–≤",
 		option2Keys);
-	option2->Add—avePatch(option2Cave_1, option2Bytes_1, 257);
-	option2->Add—avePatch(option2Cave_2, option2Bytes_2, 14);
+	option2->Add√ëavePatch(option2Cave_1, option2Bytes_1, 257);
+	option2->Add√ëavePatch(option2Cave_2, option2Bytes_2, 14);
 
 	vector <int> option3Keys = { VK_NUMPAD3 };
 	CheatOption* option3 = new CheatOption(NULL, 
-		L"[NUM3] ”ÒÚ‡ÌÂÌËÂ Ó¯Ë·ÍË", 
+		L"[NUM3] –£—Å—Ç—Ä–∞–Ω–µ–Ω–∏–µ –æ—à–∏–±–∫–∏", 
 		option3Keys);
-	option3->Add—avePatch(option3Cave_1, option3Bytes_1, 3);
+	option3->Add√ëavePatch(option3Cave_1, option3Bytes_1, 3);
 
 	cheat->AddCheatOption(option1);
 	cheat->AddCheatOption(option2);
